@@ -1,0 +1,161 @@
+response_id ,question_category, user_response_text,confidence_score,tone ,clarity_score,filler_word_count,grammar_errors,sentiment_label,improvement_tips
+1,Communication,My biggest strength is adaptability and the ability to learn fast.,7,Positive,9,1,0,Confident,Keep refining your delivery and add real examples where possible.
+2,Self Introduction,My biggest strength is adaptability and the ability to learn fast.,7.9,Positive,8,0,1,Optimistic,Keep refining your delivery and add real examples where possible.
+3,Strengths,I ensure good communication by summarizing discussions and documenting outcomes.,8.8,Positive,9,1,0,Optimistic,Keep refining your delivery and add real examples where possible.
+4,Weaknesses,I led a college team that built a machine learning project within tight deadlines.,9.8,Neutral,6,1,3,Balanced,Keep refining your delivery and add real examples where possible.
+5,Strengths,"When things get stressful, I stay calm and focus on breaking work into small steps.",9.5,Positive,9,1,1,Motivated,Keep refining your delivery and add real examples where possible.
+6,Leadership,I led a college team that built a machine learning project within tight deadlines.,7.9,Positive,6,2,1,Motivated,Great leadership energy! Try to quantify your team impact.
+7,Strengths,My goal is to work on AI projects that make a social or healthcare impact.,6.6,Positive,7,1,0,Motivated,Keep refining your delivery and add real examples where possible.
+8,Strengths,My biggest strength is adaptability and the ability to learn fast.,6.8,Positive,9,0,1,Optimistic,Keep refining your delivery and add real examples where possible.
+9,Handling Pressure,I tend to overthink small details but I’m learning to focus on the bigger picture.,8.4,Positive,9,3,3,Optimistic,You’re calm under pressure — practice sharing that story more clearly.
+10,Conflict Resolution,My biggest strength is adaptability and the ability to learn fast.,9.5,Positive,7,1,1,Composed,Keep refining your delivery and add real examples where possible.
+11,Communication,I love working in teams where ideas are shared and improved collaboratively.,6.1,Positive,9,1,0,Professional,Keep refining your delivery and add real examples where possible.
+12,Problem Solving,I love working in teams where ideas are shared and improved collaboratively.,6,Neutral,6,1,1,Moderate,Good structure! Add more details about your approach and impact.
+13,Teamwork,My biggest strength is adaptability and the ability to learn fast.,7.3,Positive,8,0,2,Professional,You collaborate well — maybe add one clear example of your contribution.
+14,Teamwork,I love working in teams where ideas are shared and improved collaboratively.,9.7,Positive,8,0,1,Confident,You collaborate well — maybe add one clear example of your contribution.
+15,Leadership,"When things get stressful, I stay calm and focus on breaking work into small steps.",7,Positive,8,0,1,Motivated,Great leadership energy! Try to quantify your team impact.
+16,Teamwork,I ensure good communication by summarizing discussions and documenting outcomes.,7.8,Positive,10,2,2,Optimistic,You collaborate well — maybe add one clear example of your contribution.
+17,Teamwork,I ensure good communication by summarizing discussions and documenting outcomes.,8.5,Positive,9,2,2,Professional,You collaborate well — maybe add one clear example of your contribution.
+18,Conflict Resolution,I solved a major code bug by analyzing data and improving accuracy by 15%.,7.3,Positive,10,1,1,Confident,Keep refining your delivery and add real examples where possible.
+19,Self Introduction,I ensure good communication by summarizing discussions and documenting outcomes.,9.9,Positive,7,0,1,Optimistic,Keep refining your delivery and add real examples where possible.
+20,Conflict Resolution,I tend to overthink small details but I’m learning to focus on the bigger picture.,6.4,Positive,6,2,0,Motivated,Keep refining your delivery and add real examples where possible.
+21,Communication,I ensure good communication by summarizing discussions and documenting outcomes.,7.4,Positive,6,0,0,Composed,Keep refining your delivery and add real examples where possible.
+22,Communication,I love working in teams where ideas are shared and improved collaboratively.,6.2,Positive,7,0,0,Composed,Keep refining your delivery and add real examples where possible.
+23,Problem Solving,I once helped teammates resolve a disagreement by finding a balanced solution.,9.4,Positive,6,0,1,Composed,Good structure! Add more details about your approach and impact.
+24,Self Introduction,I tend to overthink small details but I’m learning to focus on the bigger picture.,6.2,Positive,7,0,0,Professional,Keep refining your delivery and add real examples where possible.
+25,Future Goals,I ensure good communication by summarizing discussions and documenting outcomes.,8.4,Positive,10,0,1,Optimistic,Keep refining your delivery and add real examples where possible.
+26,Conflict Resolution,I once helped teammates resolve a disagreement by finding a balanced solution.,9.2,Positive,7,2,0,Composed,Keep refining your delivery and add real examples where possible.
+27,Leadership,I once helped teammates resolve a disagreement by finding a balanced solution.,8,Positive,10,0,0,Optimistic,Great leadership energy! Try to quantify your team impact.
+28,Problem Solving,I tend to overthink small details but I’m learning to focus on the bigger picture.,7.3,Neutral,8,1,2,Controlled,Good structure! Add more details about your approach and impact.
+29,Strengths,"Hi, I’m an AI student passionate about technology and data-driven solutions.",9.4,Positive,9,0,0,Professional,Keep refining your delivery and add real examples where possible.
+30,Strengths,I ensure good communication by summarizing discussions and documenting outcomes.,6.8,Positive,10,1,1,Confident,Keep refining your delivery and add real examples where possible.
+31,Teamwork,I once helped teammates resolve a disagreement by finding a balanced solution.,9.9,Positive,6,2,0,Optimistic,You collaborate well — maybe add one clear example of your contribution.
+32,Handling Pressure,I love working in teams where ideas are shared and improved collaboratively.,7.1,Neutral,7,1,2,Calm,You’re calm under pressure — practice sharing that story more clearly.
+33,Weaknesses,I love working in teams where ideas are shared and improved collaboratively.,7.6,Negative,8,3,1,Insecure,Keep refining your delivery and add real examples where possible.
+34,Strengths,I once helped teammates resolve a disagreement by finding a balanced solution.,8.2,Positive,6,0,0,Motivated,Keep refining your delivery and add real examples where possible.
+35,Leadership,"When things get stressful, I stay calm and focus on breaking work into small steps.",6.7,Positive,8,2,1,Confident,Great leadership energy! Try to quantify your team impact.
+36,Problem Solving,"Hi, I’m an AI student passionate about technology and data-driven solutions.",6,Neutral,10,0,1,Balanced,Good structure! Add more details about your approach and impact.
+37,Handling Pressure,I led a college team that built a machine learning project within tight deadlines.,7.9,Neutral,7,2,1,Moderate,You’re calm under pressure — practice sharing that story more clearly.
+38,Teamwork,I tend to overthink small details but I’m learning to focus on the bigger picture.,7.4,Positive,8,0,0,Optimistic,You collaborate well — maybe add one clear example of your contribution.
+39,Leadership,I love working in teams where ideas are shared and improved collaboratively.,7,Positive,9,0,0,Professional,Great leadership energy! Try to quantify your team impact.
+40,Communication,"When things get stressful, I stay calm and focus on breaking work into small steps.",8.5,Positive,8,1,1,Confident,Keep refining your delivery and add real examples where possible.
+41,Communication,I once helped teammates resolve a disagreement by finding a balanced solution.,7.4,Positive,8,1,1,Motivated,Keep refining your delivery and add real examples where possible.
+42,Problem Solving,My goal is to work on AI projects that make a social or healthcare impact.,6,Positive,10,1,2,Confident,Good structure! Add more details about your approach and impact.
+43,Teamwork,I once helped teammates resolve a disagreement by finding a balanced solution.,7.5,Positive,9,0,0,Professional,You collaborate well — maybe add one clear example of your contribution.
+44,Weaknesses,I tend to overthink small details but I’m learning to focus on the bigger picture.,6.2,Negative,8,2,2,Uncertain,Keep refining your delivery and add real examples where possible.
+45,Problem Solving,I led a college team that built a machine learning project within tight deadlines.,8.5,Neutral,6,0,2,Controlled,Good structure! Add more details about your approach and impact.
+46,Leadership,My biggest strength is adaptability and the ability to learn fast.,6.5,Positive,6,0,0,Confident,Great leadership energy! Try to quantify your team impact.
+47,Future Goals,I love working in teams where ideas are shared and improved collaboratively.,9.6,Positive,6,0,1,Motivated,Keep refining your delivery and add real examples where possible.
+48,Teamwork,I led a college team that built a machine learning project within tight deadlines.,6.8,Positive,6,2,1,Composed,You collaborate well — maybe add one clear example of your contribution.
+49,Conflict Resolution,I ensure good communication by summarizing discussions and documenting outcomes.,8.4,Neutral,9,0,0,Objective,Keep refining your delivery and add real examples where possible.
+50,Communication,I love working in teams where ideas are shared and improved collaboratively.,7.8,Positive,7,1,1,Motivated,Keep refining your delivery and add real examples where possible.
+51,Strengths,My goal is to work on AI projects that make a social or healthcare impact.,9.4,Positive,10,0,0,Composed,Keep refining your delivery and add real examples where possible.
+52,Self Introduction,I solved a major code bug by analyzing data and improving accuracy by 15%.,9.7,Positive,7,0,1,Optimistic,Keep refining your delivery and add real examples where possible.
+53,Conflict Resolution,I tend to overthink small details but I’m learning to focus on the bigger picture.,8.4,Positive,6,0,2,Optimistic,Keep refining your delivery and add real examples where possible.
+54,Communication,I led a college team that built a machine learning project within tight deadlines.,9.2,Positive,9,0,0,Composed,Keep refining your delivery and add real examples where possible.
+55,Teamwork,I love working in teams where ideas are shared and improved collaboratively.,9.6,Positive,8,0,0,Motivated,You collaborate well — maybe add one clear example of your contribution.
+56,Teamwork,My biggest strength is adaptability and the ability to learn fast.,9.9,Positive,9,1,0,Confident,You collaborate well — maybe add one clear example of your contribution.
+57,Handling Pressure,My biggest strength is adaptability and the ability to learn fast.,6.7,Neutral,10,2,3,Balanced,You’re calm under pressure — practice sharing that story more clearly.
+58,Self Introduction,I tend to overthink small details but I’m learning to focus on the bigger picture.,9.1,Positive,10,0,1,Motivated,Keep refining your delivery and add real examples where possible.
+59,Teamwork,I solved a major code bug by analyzing data and improving accuracy by 15%.,9,Positive,10,1,1,Motivated,You collaborate well — maybe add one clear example of your contribution.
+60,Self Introduction,I tend to overthink small details but I’m learning to focus on the bigger picture.,7.1,Positive,7,2,1,Composed,Keep refining your delivery and add real examples where possible.
+61,Leadership,I once helped teammates resolve a disagreement by finding a balanced solution.,6,Positive,9,2,1,Motivated,Great leadership energy! Try to quantify your team impact.
+62,Weaknesses,I love working in teams where ideas are shared and improved collaboratively.,6.4,Negative,6,1,3,Tense,Keep refining your delivery and add real examples where possible.
+63,Future Goals,I love working in teams where ideas are shared and improved collaboratively.,9,Positive,9,0,1,Confident,Keep refining your delivery and add real examples where possible.
+64,Self Introduction,My biggest strength is adaptability and the ability to learn fast.,9,Positive,9,0,1,Motivated,Keep refining your delivery and add real examples where possible.
+65,Leadership,I tend to overthink small details but I’m learning to focus on the bigger picture.,8.5,Positive,6,2,0,Optimistic,Great leadership energy! Try to quantify your team impact.
+66,Communication,I once helped teammates resolve a disagreement by finding a balanced solution.,6.9,Positive,8,1,0,Professional,Keep refining your delivery and add real examples where possible.
+67,Problem Solving,"Hi, I’m an AI student passionate about technology and data-driven solutions.",6,Positive,6,1,2,Optimistic,Good structure! Add more details about your approach and impact.
+68,Self Introduction,I once helped teammates resolve a disagreement by finding a balanced solution.,6.2,Positive,6,0,0,Optimistic,Keep refining your delivery and add real examples where possible.
+69,Future Goals,"Hi, I’m an AI student passionate about technology and data-driven solutions.",8.8,Positive,10,1,1,Professional,Keep refining your delivery and add real examples where possible.
+70,Handling Pressure,I tend to overthink small details but I’m learning to focus on the bigger picture.,8.8,Neutral,7,2,2,Moderate,You’re calm under pressure — practice sharing that story more clearly.
+71,Teamwork,I once helped teammates resolve a disagreement by finding a balanced solution.,7.7,Positive,8,1,1,Motivated,You collaborate well — maybe add one clear example of your contribution.
+72,Leadership,I tend to overthink small details but I’m learning to focus on the bigger picture.,8.5,Positive,6,2,1,Professional,Great leadership energy! Try to quantify your team impact.
+73,Problem Solving,I tend to overthink small details but I’m learning to focus on the bigger picture.,7,Neutral,9,0,1,Objective,Good structure! Add more details about your approach and impact.
+74,Conflict Resolution,"When things get stressful, I stay calm and focus on breaking work into small steps.",6.3,Neutral,10,2,1,Moderate,Keep refining your delivery and add real examples where possible.
+75,Communication,I tend to overthink small details but I’m learning to focus on the bigger picture.,9.9,Positive,10,0,1,Motivated,Keep refining your delivery and add real examples where possible.
+76,Leadership,"Hi, I’m an AI student passionate about technology and data-driven solutions.",8.1,Positive,9,0,0,Confident,Great leadership energy! Try to quantify your team impact.
+77,Problem Solving,I ensure good communication by summarizing discussions and documenting outcomes.,6.7,Neutral,7,2,0,Moderate,Good structure! Add more details about your approach and impact.
+78,Strengths,I once helped teammates resolve a disagreement by finding a balanced solution.,9.5,Positive,9,1,0,Professional,Keep refining your delivery and add real examples where possible.
+79,Strengths,I once helped teammates resolve a disagreement by finding a balanced solution.,6.5,Positive,7,0,0,Professional,Keep refining your delivery and add real examples where possible.
+80,Weaknesses,I ensure good communication by summarizing discussions and documenting outcomes.,9.1,Neutral,10,3,1,Balanced,Keep refining your delivery and add real examples where possible.
+81,Weaknesses,I tend to overthink small details but I’m learning to focus on the bigger picture.,8.6,Neutral,7,3,3,Moderate,Keep refining your delivery and add real examples where possible.
+82,Weaknesses,I once helped teammates resolve a disagreement by finding a balanced solution.,9,Negative,9,1,2,Nervous,Keep refining your delivery and add real examples where possible.
+83,Self Introduction,"Hi, I’m an AI student passionate about technology and data-driven solutions.",7.9,Positive,7,0,0,Motivated,Keep refining your delivery and add real examples where possible.
+84,Communication,My biggest strength is adaptability and the ability to learn fast.,8.6,Positive,7,1,0,Professional,Keep refining your delivery and add real examples where possible.
+85,Teamwork,My biggest strength is adaptability and the ability to learn fast.,8.3,Positive,9,0,1,Optimistic,You collaborate well — maybe add one clear example of your contribution.
+86,Handling Pressure,I ensure good communication by summarizing discussions and documenting outcomes.,7.6,Neutral,7,2,3,Controlled,You’re calm under pressure — practice sharing that story more clearly.
+87,Teamwork,I love working in teams where ideas are shared and improved collaboratively.,8.8,Positive,10,2,0,Professional,You collaborate well — maybe add one clear example of your contribution.
+88,Conflict Resolution,"When things get stressful, I stay calm and focus on breaking work into small steps.",7.3,Positive,8,2,2,Composed,Keep refining your delivery and add real examples where possible.
+89,Self Introduction,I solved a major code bug by analyzing data and improving accuracy by 15%.,6.7,Positive,6,1,1,Motivated,Keep refining your delivery and add real examples where possible.
+90,Communication,I ensure good communication by summarizing discussions and documenting outcomes.,8.2,Positive,6,0,1,Confident,Keep refining your delivery and add real examples where possible.
+91,Self Introduction,My goal is to work on AI projects that make a social or healthcare impact.,9,Positive,6,2,0,Motivated,Keep refining your delivery and add real examples where possible.
+92,Handling Pressure,I once helped teammates resolve a disagreement by finding a balanced solution.,9,Neutral,9,1,3,Calm,You’re calm under pressure — practice sharing that story more clearly.
+93,Future Goals,I solved a major code bug by analyzing data and improving accuracy by 15%.,7.6,Positive,8,1,0,Composed,Keep refining your delivery and add real examples where possible.
+94,Conflict Resolution,I love working in teams where ideas are shared and improved collaboratively.,7.5,Positive,8,1,2,Professional,Keep refining your delivery and add real examples where possible.
+95,Weaknesses,I solved a major code bug by analyzing data and improving accuracy by 15%.,6.7,Negative,9,1,3,Uncertain,Keep refining your delivery and add real examples where possible.
+96,Future Goals,I led a college team that built a machine learning project within tight deadlines.,7,Positive,7,1,0,Confident,Keep refining your delivery and add real examples where possible.
+97,Communication,I led a college team that built a machine learning project within tight deadlines.,7,Positive,7,0,0,Confident,Keep refining your delivery and add real examples where possible.
+98,Strengths,I love working in teams where ideas are shared and improved collaboratively.,6.2,Positive,7,0,0,Optimistic,Keep refining your delivery and add real examples where possible.
+99,Problem Solving,I led a college team that built a machine learning project within tight deadlines.,6.4,Positive,6,2,0,Confident,Good structure! Add more details about your approach and impact.
+100,Communication,I love working in teams where ideas are shared and improved collaboratively.,9.4,Positive,8,1,1,Motivated,Keep refining your delivery and add real examples where possible.
+101,Teamwork,I led a college team that built a machine learning project within tight deadlines.,10,Positive,7,1,0,Confident,You collaborate well — maybe add one clear example of your contribution.
+102,Conflict Resolution,I love working in teams where ideas are shared and improved collaboratively.,6.7,Positive,7,0,2,Optimistic,Keep refining your delivery and add real examples where possible.
+103,Handling Pressure,"Hi, I’m an AI student passionate about technology and data-driven solutions.",6.8,Positive,10,3,3,Motivated,You’re calm under pressure — practice sharing that story more clearly.
+104,Handling Pressure,I once helped teammates resolve a disagreement by finding a balanced solution.,9.5,Positive,8,1,3,Motivated,You’re calm under pressure — practice sharing that story more clearly.
+105,Self Introduction,My biggest strength is adaptability and the ability to learn fast.,9.9,Positive,7,2,1,Confident,Keep refining your delivery and add real examples where possible.
+106,Conflict Resolution,I once helped teammates resolve a disagreement by finding a balanced solution.,7.6,Positive,8,1,0,Motivated,Keep refining your delivery and add real examples where possible.
+107,Conflict Resolution,My biggest strength is adaptability and the ability to learn fast.,6.2,Neutral,9,1,0,Objective,Keep refining your delivery and add real examples where possible.
+108,Conflict Resolution,"When things get stressful, I stay calm and focus on breaking work into small steps.",7.9,Neutral,7,0,2,Controlled,Keep refining your delivery and add real examples where possible.
+109,Future Goals,My biggest strength is adaptability and the ability to learn fast.,6.1,Positive,10,0,0,Composed,Keep refining your delivery and add real examples where possible.
+110,Leadership,I led a college team that built a machine learning project within tight deadlines.,8.3,Positive,6,0,1,Composed,Great leadership energy! Try to quantify your team impact.
+111,Strengths,My biggest strength is adaptability and the ability to learn fast.,6.4,Positive,7,1,1,Confident,Keep refining your delivery and add real examples where possible.
+112,Communication,My biggest strength is adaptability and the ability to learn fast.,6.8,Positive,6,1,0,Confident,Keep refining your delivery and add real examples where possible.
+113,Strengths,I led a college team that built a machine learning project within tight deadlines.,6.1,Positive,9,0,0,Composed,Keep refining your delivery and add real examples where possible.
+114,Future Goals,I solved a major code bug by analyzing data and improving accuracy by 15%.,7.6,Positive,6,0,0,Confident,Keep refining your delivery and add real examples where possible.
+115,Future Goals,I love working in teams where ideas are shared and improved collaboratively.,6.7,Positive,7,1,1,Composed,Keep refining your delivery and add real examples where possible.
+116,Problem Solving,My biggest strength is adaptability and the ability to learn fast.,6.4,Positive,7,0,2,Professional,Good structure! Add more details about your approach and impact.
+117,Conflict Resolution,"When things get stressful, I stay calm and focus on breaking work into small steps.",9,Positive,8,2,0,Optimistic,Keep refining your delivery and add real examples where possible.
+118,Handling Pressure,I ensure good communication by summarizing discussions and documenting outcomes.,9.7,Neutral,7,2,3,Calm,You’re calm under pressure — practice sharing that story more clearly.
+119,Future Goals,My goal is to work on AI projects that make a social or healthcare impact.,9.3,Positive,7,1,0,Optimistic,Keep refining your delivery and add real examples where possible.
+120,Future Goals,I led a college team that built a machine learning project within tight deadlines.,7.3,Positive,6,0,1,Professional,Keep refining your delivery and add real examples where possible.
+121,Weaknesses,I love working in teams where ideas are shared and improved collaboratively.,7.5,Negative,6,3,3,Insecure,Keep refining your delivery and add real examples where possible.
+122,Future Goals,I once helped teammates resolve a disagreement by finding a balanced solution.,9.5,Positive,10,1,1,Optimistic,Keep refining your delivery and add real examples where possible.
+123,Conflict Resolution,I ensure good communication by summarizing discussions and documenting outcomes.,7.3,Positive,6,2,0,Professional,Keep refining your delivery and add real examples where possible.
+124,Weaknesses,"When things get stressful, I stay calm and focus on breaking work into small steps.",8.2,Neutral,9,3,3,Objective,Keep refining your delivery and add real examples where possible.
+125,Communication,My goal is to work on AI projects that make a social or healthcare impact.,9,Positive,8,0,0,Professional,Keep refining your delivery and add real examples where possible.
+126,Communication,My biggest strength is adaptability and the ability to learn fast.,7,Positive,9,1,0,Professional,Keep refining your delivery and add real examples where possible.
+127,Weaknesses,My biggest strength is adaptability and the ability to learn fast.,6.5,Negative,9,3,2,Insecure,Keep refining your delivery and add real examples where possible.
+128,Future Goals,My goal is to work on AI projects that make a social or healthcare impact.,7.9,Positive,8,1,0,Confident,Keep refining your delivery and add real examples where possible.
+129,Strengths,My goal is to work on AI projects that make a social or healthcare impact.,8.9,Positive,8,0,1,Motivated,Keep refining your delivery and add real examples where possible.
+130,Handling Pressure,My goal is to work on AI projects that make a social or healthcare impact.,9.7,Neutral,10,3,2,Objective,You’re calm under pressure — practice sharing that story more clearly.
+131,Conflict Resolution,I once helped teammates resolve a disagreement by finding a balanced solution.,8.3,Positive,8,2,1,Composed,Keep refining your delivery and add real examples where possible.
+132,Strengths,I once helped teammates resolve a disagreement by finding a balanced solution.,7.9,Positive,6,0,0,Motivated,Keep refining your delivery and add real examples where possible.
+133,Teamwork,I ensure good communication by summarizing discussions and documenting outcomes.,7.1,Positive,9,2,1,Professional,You collaborate well — maybe add one clear example of your contribution.
+134,Self Introduction,I solved a major code bug by analyzing data and improving accuracy by 15%.,6.5,Positive,8,2,0,Composed,Keep refining your delivery and add real examples where possible.
+135,Self Introduction,"When things get stressful, I stay calm and focus on breaking work into small steps.",9.6,Positive,6,1,0,Confident,Keep refining your delivery and add real examples where possible.
+136,Teamwork,I ensure good communication by summarizing discussions and documenting outcomes.,7.9,Positive,8,0,1,Composed,You collaborate well — maybe add one clear example of your contribution.
+137,Problem Solving,My goal is to work on AI projects that make a social or healthcare impact.,9.8,Neutral,7,1,1,Moderate,Good structure! Add more details about your approach and impact.
+138,Conflict Resolution,I led a college team that built a machine learning project within tight deadlines.,6,Neutral,8,0,2,Objective,Keep refining your delivery and add real examples where possible.
+139,Leadership,I once helped teammates resolve a disagreement by finding a balanced solution.,6.6,Positive,10,1,0,Optimistic,Great leadership energy! Try to quantify your team impact.
+140,Strengths,I tend to overthink small details but I’m learning to focus on the bigger picture.,6.3,Positive,6,1,0,Composed,Keep refining your delivery and add real examples where possible.
+141,Communication,I led a college team that built a machine learning project within tight deadlines.,8.7,Positive,10,0,1,Professional,Keep refining your delivery and add real examples where possible.
+142,Problem Solving,"When things get stressful, I stay calm and focus on breaking work into small steps.",8.5,Positive,10,2,1,Confident,Good structure! Add more details about your approach and impact.
+143,Communication,I solved a major code bug by analyzing data and improving accuracy by 15%.,6.4,Positive,7,0,1,Composed,Keep refining your delivery and add real examples where possible.
+144,Future Goals,My goal is to work on AI projects that make a social or healthcare impact.,9.4,Positive,8,0,1,Optimistic,Keep refining your delivery and add real examples where possible.
+145,Strengths,I solved a major code bug by analyzing data and improving accuracy by 15%.,6.8,Positive,6,0,0,Optimistic,Keep refining your delivery and add real examples where possible.
+146,Future Goals,I tend to overthink small details but I’m learning to focus on the bigger picture.,9.5,Positive,7,1,1,Composed,Keep refining your delivery and add real examples where possible.
+147,Communication,I ensure good communication by summarizing discussions and documenting outcomes.,7.9,Positive,7,0,0,Composed,Keep refining your delivery and add real examples where possible.
+148,Communication,I led a college team that built a machine learning project within tight deadlines.,7.5,Positive,7,0,0,Optimistic,Keep refining your delivery and add real examples where possible.
+149,Problem Solving,"When things get stressful, I stay calm and focus on breaking work into small steps.",7.1,Neutral,8,0,0,Controlled,Good structure! Add more details about your approach and impact.
+150,Problem Solving,I ensure good communication by summarizing discussions and documenting outcomes.,7.7,Neutral,8,0,0,Calm,Good structure! Add more details about your approach and impact.
+151,Communication,I tend to overthink small details but I’m learning to focus on the bigger picture.,9.4,Positive,6,0,0,Motivated,Keep refining your delivery and add real examples where possible.
+152,Teamwork,I led a college team that built a machine learning project within tight deadlines.,8.5,Positive,8,0,1,Professional,You collaborate well — maybe add one clear example of your contribution.
+153,Communication,I once helped teammates resolve a disagreement by finding a balanced solution.,6.1,Positive,6,0,1,Optimistic,Keep refining your delivery and add real examples where possible.
+154,Handling Pressure,I love working in teams where ideas are shared and improved collaboratively.,8.9,Positive,7,3,3,Composed,You’re calm under pressure — practice sharing that story more clearly.
+155,Problem Solving,I tend to overthink small details but I’m learning to focus on the bigger picture.,8.6,Neutral,10,0,1,Objective,Good structure! Add more details about your approach and impact.
+156,Leadership,I tend to overthink small details but I’m learning to focus on the bigger picture.,6.1,Positive,10,1,1,Motivated,Great leadership energy! Try to quantify your team impact.
+157,Strengths,I once helped teammates resolve a disagreement by finding a balanced solution.,9.4,Positive,6,1,1,Confident,Keep refining your delivery and add real examples where possible.
+158,Leadership,I love working in teams where ideas are shared and improved collaboratively.,6.6,Positive,8,2,0,Professional,Great leadership energy! Try to quantify your team impact.
+159,Communication,I ensure good communication by summarizing discussions and documenting outcomes.,9.5,Positive,10,1,1,Professional,Keep refining your delivery and add real examples where possible.
+160,Weaknesses,I ensure good communication by summarizing discussions and documenting outcomes.,9.1,Neutral,10,2,2,Moderate,Keep refining your delivery and add real examples where possible.

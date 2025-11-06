@@ -1,0 +1,16 @@
+import streamlit as st
+import pandas as pd
+
+df = pd.read_csv("NewApp.csv")
+
+st.title("🎤 AI Interview Coach Dashboard")
+st.write("Analyze your interview responses and improvement feedback")
+
+category = st.selectbox("Select Question Category", df['question_category'].unique())
+
+filtered = df[df['question_category'] == category]
+st.dataframe(filtered[['user_response_text','confidence_score','clarity_score','tone','sentiment_label','improvement_tips']])
+
+st.subheader("📊 Average Scores by Category")
+avg_data = df.groupby('question_category')[['confidence_score','clarity_score']].mean()
+st.bar_chart(avg_data)
