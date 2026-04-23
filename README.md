@@ -1,21 +1,21 @@
 https://ai-interview-coach-iqyh6km5tqvyrdqy4f6wug.streamlit.app/
-# 🎤 AI Interview Coach Dashboard
+# AI Interview Coach Dashboard
 
 An interactive Streamlit-based app that analyzes mock interview responses and provides AI-generated feedback on:
 - Confidence levels  
 - Tone and clarity  
 - Sentiment and improvement areas  
 
-## 🧠 Features
+##  Features
 - Dynamic category filtering  
 - Color-coded confidence insights  
 - AI feedback summaries  
 - Downloadable performance reports  
 
-## 🚀 Live Demo
-🔗 [Open the App](https://ai-interview-coach-iqyh6km5tqvyrdqy4f6wug.streamlit.app)
+##  Live Demo
+[Open the App](https://ai-interview-coach-iqyh6km5tqvyrdqy4f6wug.streamlit.app)
 
-## 🧩 Tech Stack
+##  Tech Stack
 - **Python**
 - **Pandas**
 - **Streamlit**
@@ -23,5 +23,5 @@ An interactive Streamlit-based app that analyzes mock interview responses and pr
 
 ---
 
-👩‍💻 **Created by:** Harshithaa M N  
-📫 [LinkedIn](https://linkedin.com/in/harshithaamn) | [GitHub](https://github.com/harshithaamn28)
+ **Created by:** Harshithaa M N  
+[LinkedIn](https://linkedin.com/in/harshithaamn) | [GitHub](https://github.com/harshithaamn28)
